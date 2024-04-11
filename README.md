@@ -1,6 +1,6 @@
 # Calculator
 
-This is a simple calculator application created using Tkinter in Python.
+This is a simple calculator application created using Tkinter feature in Python.
 
 ## Getting Started
 
